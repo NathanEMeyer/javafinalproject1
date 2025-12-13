@@ -1,0 +1,11 @@
+Nathan Meyer -
+Created and implemented the waitlist, reservations and rooms classes in the project 
+
+Matthew Gregory -
+Designed and implemented the faculty and dates classes 
+
+Dylan Partridge
+Implemented all functions into the RoomScheduler tester file and did rigorous testing for each option
+
+Nathan Tarapatla -
+Designed and implemented the entire mySQL of the project for both the Java and server-side 
